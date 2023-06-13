@@ -115,8 +115,7 @@ a:hover {
 }
 
 #home #navegacao .home a, 
-#sobre #navegacao .sobre a, 
-#servicos #navegacao .servicos a {
+#jogos #navegacao .jogos a {
     background-position: right bottom;
     background-color: #ff9200;
     color: #fff;
